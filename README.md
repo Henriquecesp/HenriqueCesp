@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Social banner for henriquecesp](https://github.com/Henriquecesp/HenriqueCesp/blob/main/banner.png)](https://github.com/Henriquecesp)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula)
+
 
 <!--
 **Henriquecesp/HenriqueCesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

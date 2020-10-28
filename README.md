@@ -1,6 +1,6 @@
 [![Social banner for henriquecesp](https://github.com/Henriquecesp/HenriqueCesp/blob/main/banner.png)](https://github.com/Henriquecesp)
 
-<h1 align="center">Hi 👋, I'm HenriqueCesp</h1>
+<h1 align="center">Hi 👋, I'm HenriqueCesp &lt;/&gt;</h1>
 <h3 align="center">Software Engineer student from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.</h3>
 
 - 🌱 I’m currently learning **GraphQL**

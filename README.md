@@ -1,4 +1,4 @@
-[![Social banner for henriquecesp](https://github.com/Henriquecesp/HenriqueCesp/blob/main/banner.png)](https://github.com/Henriquecesp)
+[![Social banner for henriquecesp](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assetsw/banner.png)](https://github.com/Henriquecesp)
 
 <h1 align="center">Hi 👋, I'm HenriqueCesp &lt;/&gt;</h1>
 <h3 align="center">Software Engineer student from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.</h3>
@@ -20,4 +20,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en" alt="henriquecesp" /></p>
-

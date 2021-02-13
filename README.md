@@ -1,17 +1,21 @@
-## Olá 👾, meu nome é HenriqueCesp!
+## Olá 👾, eu sou o HenriqueCesp!
 ![I am GitHub Readme Generator's creator](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assets/banner.png)
 
 Front-End Developer from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.
 
 Skills: NextJs / React / GraphQL / JS / HTML / CSS
 
-Tenho um canal no YouTube onde compartilho conhecimento e ensino diversos conceitos sobre Front-End, React, NextJs & muito mais!
+Tenho um canal no YouTube onde compartilho **conhecimento** e ensino diversos conceitos sobre **Front-End**, React, NextJs & muito mais!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cespdev)
 
-- 📫 Fale comigo henriquecesps4@gmail.com ou nas redes sociais abaixo!
+📫 Fale comigo: henriquecesps4@gmail.com ou nas redes sociais abaixo!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henriquecesp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cespdev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://github.com/Henriquecesp/react-admin-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://github.com/Henriquecesp/next-cespdev-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' height='40'>](https://github.com/Henriquecesp/apollo-client)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henriquecesp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cespdev/)
+
+De uma olhadinha nestes projetos utilizando as tecnologias que domino🧐
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://github.com/Henriquecesp/react-admin-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://github.com/Henriquecesp/next-cespdev-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' height='40'>](https://github.com/Henriquecesp/apollo-client)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula)  
 

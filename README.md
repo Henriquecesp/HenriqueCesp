@@ -1,22 +1,19 @@
-[![Social banner for henriquecesp](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assets/banner.png)](https://github.com/Henriquecesp)
+## Olá 👾, meu nome é HenriqueCesp!
+![I am GitHub Readme Generator's creator](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assets/banner.png)
 
-<h1 align="center">Hi 👋, I'm HenriqueCesp &lt;/&gt;</h1>
-<h3 align="center">Software Engineer student from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.</h3>
+Front-End Developer from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.
 
-- 🌱 I’m currently learning **GraphQL**
+Skills: NextJs / React / GraphQL / JS / HTML / CSS
 
-- 💬 Ask me about **React, Nextjs, HTML & CSS**
+Tenho um canal no YouTube onde compartilho conhecimento e ensino diversos conceitos sobre Front-End, React, NextJs & muito mais!
 
-- 📫 How to reach me **henriquecesps4@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cespdev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/henriquecesp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="henriquecesp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/henriquecesp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="henriquecesp" height="30" width="40" /></a>
-<a href="https://instagram.com/cespdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cespdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cespdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cespdev" height="30" width="40" /></a>
-</p>
+- 📫 Fale comigo henriquecesps4@gmail.com ou nas redes sociais abaixo!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henriquecesp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cespdev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://github.com/Henriquecesp/react-admin-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://github.com/Henriquecesp/next-cespdev-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' height='40'>](https://github.com/Henriquecesp/apollo-client)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula)  
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en" alt="henriquecesp" /></p>

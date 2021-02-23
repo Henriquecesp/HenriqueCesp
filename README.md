@@ -32,7 +32,7 @@ Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente tra
 
 Tenho um canal no YouTube onde compartilho **conhecimento** e ensino diversos conceitos sobre **Front-End**, React, NextJs & muito mais!
 
-[<img src='https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube' alt='YouTube'>](https://www.youtube.com/channel/cespdev)
+[<img src='https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube' alt='YouTube'>](https://www.youtube.com/channel/UCokKk0O5EhS9hRcTNm__bYg)
 
 ### 📫 &nbsp;Fale comigo
 

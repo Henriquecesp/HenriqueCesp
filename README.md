@@ -1,9 +1,11 @@
 ## Olá 👾, eu sou o HenriqueCesp!
 ![I am GitHub Readme Generator's creator](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assets/banner.png)
 
-Front-End Developer from Foz do Iguaçu, Brazil. Always trying to be better than I was yesterday.
+Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!
 
-Skills: NextJs / React / GraphQL / JS / HTML / CSS
+Stack atual: NextJs / React / GraphQL / TypeScript / Figma
+
+Skills: NextJs / React / GraphQL / Typescript / JS / HTML / CSS / Java / Node / Adonis / Styled Components / Figma
 
 Tenho um canal no YouTube onde compartilho **conhecimento** e ensino diversos conceitos sobre **Front-End**, React, NextJs & muito mais!
 

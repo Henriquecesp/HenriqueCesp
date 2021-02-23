@@ -26,6 +26,7 @@ Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente tra
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+ </p>
 
 ### 💻 &nbsp;Tutorias & Conteúdo
 
@@ -50,7 +51,9 @@ De uma olhadinha nestes projetos utilizando as tecnologias que domino🧐
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula)  
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en" alt="henriquecesp" /></p>
+<p align="center">
+  <a href="https://github.com/henriquecesp">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
+  </a>
+</p>

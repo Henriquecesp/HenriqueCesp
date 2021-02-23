@@ -1,23 +1,54 @@
 ## Olá 👾, eu sou o HenriqueCesp!
-![I am GitHub Readme Generator's creator](https://github.com/Henriquecesp/HenriqueCesp/blob/main/assets/banner.png)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/henriquecesp/henriquecesp/main/assets/banner.png)
+
+### 👨🏻‍💻 &nbsp;Sobre
 
 Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!
 
-Stack atual: NextJs / React / GraphQL / TypeScript / Figma
+<img alt="Night Coding" src="https://raw.githubusercontent.com/henriquecesp/henriquecesp/main/assets/coffee.gif" align="right"/>
 
-Skills: NextJs / React / GraphQL / Typescript / JS / HTML / CSS / Java / Node / Adonis / Styled Components / Figma
+### 🛠 &nbsp;Stack Tecnologias
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=material-ui)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+### 💻 &nbsp;Tutorias & Conteúdo
 
 Tenho um canal no YouTube onde compartilho **conhecimento** e ensino diversos conceitos sobre **Front-End**, React, NextJs & muito mais!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cespdev)
+[<img src='https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube' alt='YouTube'>](https://www.youtube.com/channel/cespdev)
 
-📫 Fale comigo: henriquecesps4@gmail.com ou nas redes sociais abaixo!
+### 📫 &nbsp;Fale comigo
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/henriquecesp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/henriquecesp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cespdev/)
+<p align="center">
+<a href="https://linkedin.com/in/henriquecesp"><img src="https://img.shields.io/badge/-HenriqueCesp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:henriquecesps4@gmail.com"><img src="https://img.shields.io/badge/-henriquecesps4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/henriquecesp"><img src="https://img.shields.io/badge/-@henriquecesp-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://dev.to/henriquecesp"><img src="https://img.shields.io/badge/-henriquecesp-E4405F?style=flat&logo=dev.to&logoColor=white"/></a>
+</p>
+
+### 💻 &nbsp;Projetos
 
 De uma olhadinha nestes projetos utilizando as tecnologias que domino🧐
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://github.com/Henriquecesp/react-admin-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='next-dot-js' height='40'>](https://github.com/Henriquecesp/next-cespdev-template)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg' alt='graphql' height='40'>](https://github.com/Henriquecesp/apollo-client)  
+[<img src='https://img.shields.io/badge/-React-05122A?style=flat&logo=react' alt='react'>](https://github.com/Henriquecesp/react-admin-template)  [<img src='https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js' alt='next-dot-js'>](https://github.com/Henriquecesp/next-cespdev-template)  [<img src='https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql' alt='graphql'>](https://github.com/Henriquecesp/apollo-client)  
+
+### ⚙️ &nbsp;GitHub Analytics
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula)  
 

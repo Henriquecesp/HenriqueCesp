@@ -1,5 +1,4 @@
 ## Olá 👾, eu sou o HenriqueCesp!
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/henriquecesp/henriquecesp/main/assets/banner.png)
 
 ### 👨🏻‍💻 &nbsp;Sobre
 

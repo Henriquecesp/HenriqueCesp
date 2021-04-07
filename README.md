@@ -1,4 +1,4 @@
-## Olá 👾, eu sou o HenriqueCesp!
+## Olá, eu sou o HenriqueCesp 👾
 
 > Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!
 
@@ -12,8 +12,7 @@
  <a href="https://www.youtube.com/channel/UCokKk0O5EhS9hRcTNm__bYg"><img src='https://img.shields.io/badge/-@CespDev-FF0000?style=flat&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 </p>
 
-<details>
- <summary>Stack Tecnologias</summary>
+ ## 🚀 Stack Tecnologias
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
@@ -33,14 +32,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop)&nbsp;
  </p>
-</details>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
+<p>
   <a href="https://github.com/henriquecesp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
+  </a>
+  <a href="https://github.com/henriquecesp">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
   </a>
 </p>
 

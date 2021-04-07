@@ -12,7 +12,8 @@
  <a href="https://www.youtube.com/channel/UCokKk0O5EhS9hRcTNm__bYg"><img src='https://img.shields.io/badge/-@CespDev-FF0000?style=flat&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 </p>
 
- ## 🚀 Stack Tecnologias
+<details>
+<summary>🚀 Stack Tecnologias</summary>
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
@@ -32,8 +33,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop)&nbsp;
  </p>
+</details>
 
-<p>
+<details>
+ <summary>🔥 Github Stats</summary>
+ <p>
   <a href="https://github.com/henriquecesp">
     <img src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
   </a>
@@ -41,5 +45,8 @@
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
   </a>
 </p>
+</details>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=henriquecesp.visitor-badge)](https://github.com/henriquecesp)
+
+<p>Made with 🖤 and ☕ by <a href="https://github.com/henriquecesp/">HenriqueCesp</a></p>

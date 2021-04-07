@@ -2,7 +2,7 @@
 
 > Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/henriquecesp/henriquecesp/main/assets/coffee.gif" align="right"/>
+<img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 
 <p>
  <a href="https://linkedin.com/in/henriquecesp"><img src="https://img.shields.io/badge/-HenriqueCesp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -35,10 +35,10 @@
 
 <p>
   <a href="https://github.com/henriquecesp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
+    <img src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
   </a>
   <a href="https://github.com/henriquecesp">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
   </a>
 </p>
 

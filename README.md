@@ -1,6 +1,6 @@
 ## Olá, eu sou o HenriqueCesp 👾
 
-> Desenvolvedor front-end & designer UI, de Foz do Iguaçu, Brazil. Atualmente trabalhando como freelancer, criando soluções para empresas e compartilhando conhecimento com a comunidade de desenvolvedores!
+> Desenvolvedor FullStack, de Foz do Iguaçu, Brazil. Atualmente trabalho criando soluções e compartilhando conhecimento com a comunidade. 🚀
 
 <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 

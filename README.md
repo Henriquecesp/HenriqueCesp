@@ -1,42 +1,33 @@
-## Olá, eu sou o HenriqueCesp 👾
+# My name is HenriqueCesp, nice to meet you! 👾
 
-> Desenvolvedor FullStack, de Foz do Iguaçu, Brazil. Atualmente trabalho criando soluções e compartilhando conhecimento com a comunidade. 🚀
+
+
+<strong>Fullstack Developer, Technology Enthusiast.</strong>
+> <p>Currently working at @mobLee, creating real solutions, sharing knowledge with the community and always learning something new.</p>
 
 <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 
-<p>
- <a href="https://linkedin.com/in/henriquecesp"><img src="https://img.shields.io/badge/-HenriqueCesp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
- <a href="mailto:henriquecesps4@gmail.com"><img src="https://img.shields.io/badge/-henriquecesps4@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="https://instagram.com/cesphenrique"><img src="https://img.shields.io/badge/-@cesphenrique-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- <a href="https://dev.to/henriquecesp"><img src="https://img.shields.io/badge/-henriquecesp-0D1117?style=flat&logo=dev.to&logoColor=white"/></a>
- <a href="https://www.youtube.com/channel/UCokKk0O5EhS9hRcTNm__bYg"><img src='https://img.shields.io/badge/-@CespDev-FF0000?style=flat&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
-</p>
+### Technology Stack 🚀 
 
-<details>
-<summary>🚀 Stack Tecnologias</summary>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=444)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=TypeScript)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-Material%20UI-0D1117?style=flat&logo=material-ui)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobe-photoshop)&nbsp;
- </p>
-</details>
+### Currently Studying 📖 
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-000?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;
 
-<details>
- <summary>🔥 Github Stats</summary>
+### My Youtube Channel 💻 
+
+<a href="https://www.youtube.com/henriquecesp"><img src='https://img.shields.io/badge/-henriquecesp-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
+
+### Github Stats 🔥 
  <p>
   <a href="https://github.com/henriquecesp">
     <img src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
@@ -45,8 +36,15 @@
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
   </a>
 </p>
-</details>
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=henriquecesp.visitor-badge)](https://github.com/henriquecesp)
 
-<p>Made with 🖤 and ☕ by <a href="https://github.com/henriquecesp/">HenriqueCesp</a></p>
+### Need a fullstack developer ? Let's work together!
+
+<p>
+ <a href="https://linkedin.com/in/henriquecesp"><img src="https://img.shields.io/badge/-henriquecesp-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://instagram.com/cesphenrique"><img src="https://img.shields.io/badge/-@cesphenrique-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:henriquecesps4@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+> Made with 🖤 and ☕ by <a href="https://github.com/henriquecesp/">HenriqueCesp</a>

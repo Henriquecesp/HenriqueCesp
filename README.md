@@ -13,7 +13,8 @@
 ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<br>
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;

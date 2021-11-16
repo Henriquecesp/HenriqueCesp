@@ -3,7 +3,7 @@
 
 
 <strong>Fullstack Developer, Technology Enthusiast.</strong>
-> <p>Currently working at @mobLee, creating real solutions, sharing knowledge with the community and always learning something new.</p>
+> <p>Currently working at <a href="https://www.coliseum.gg/">ColiseumGG</a>, creating real solutions, sharing knowledge with the community and always learning something new.</p>
 
 <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 

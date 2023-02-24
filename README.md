@@ -18,9 +18,9 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 ### Currently Studying 📖 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 ![gRPC](https://img.shields.io/badge/-gRPC-000?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;
 
@@ -28,24 +28,12 @@
 
 <a href="https://www.youtube.com/henriquecesp"><img src='https://img.shields.io/badge/-henriquecesp-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 
-### Github Stats 🔥 
- <p>
-  <a href="https://github.com/henriquecesp">
-    <img src="https://github-readme-stats.vercel.app/api?username=henriquecesp&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="henriquecesp" />
-  </a>
-  <a href="https://github.com/henriquecesp">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecesp&theme=dracula" alt="henriquecesp" />
-  </a>
-</p>
-
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=henriquecesp.visitor-badge)](https://github.com/henriquecesp)
 
 ### Need a fullstack developer ? Let's work together!
 
 <p>
- <a href="https://linkedin.com/in/henriquecesp"><img src="https://img.shields.io/badge/-henriquecesp-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
- <a href="https://instagram.com/cesphenrique"><img src="https://img.shields.io/badge/-@cesphenrique-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:henriquecesps4@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:henriquecesps4@gmail.com"><img src="https://img.shields.io/badge/-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 > Made with 🖤 and ☕ by <a href="https://github.com/henriquecesp/">HenriqueCesp</a>

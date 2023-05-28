@@ -25,7 +25,7 @@ I have a diverse set of skills, including but not limited to:
 
 You can catch me on YouTube, where I share my knowledge and engage with the community:
 
-<a href="https://www.youtube.com/henriquecesp"><img src='https://img.shields.io/badge/-henriquecesp-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
+<a href="https://youtube.com/henriquecesp?sub_confirmation=1"><img src='https://img.shields.io/badge/-henriquecesp-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 
 Alternatively, feel free to reach out to me for collaboration or just a chat. I'm always open to new ideas and opportunities.
 
